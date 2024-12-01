@@ -9,8 +9,8 @@
 **Pick-and-Pay** is a modern e-commerce platform that delivers a seamless shopping experience for users and a robust management system for administrators. From browsing products to secure payments, Pick-and-Pay does it all. 🚀  
 
 ---
+ ![Screenshot (928)](https://github.com/user-attachments/assets/0d15d6b1-7b0a-4128-9d32-2300e0ed70e7)
 
-![Screenshot (929)](https://github.com/user-attachments/assets/0e30ff18-3a7d-4c86-9ac2-bad7363c67fe)
 
 
 ## 🌟 Features
@@ -36,7 +36,7 @@
   
 - **Dashboard**: Gain insights into sales and customer data.
 
-  ![Screenshot (928)](https://github.com/user-attachments/assets/0d15d6b1-7b0a-4128-9d32-2300e0ed70e7)
+ ![Screenshot (929)](https://github.com/user-attachments/assets/0e30ff18-3a7d-4c86-9ac2-bad7363c67fe)
 
   
 
