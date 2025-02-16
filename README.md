@@ -1,4 +1,4 @@
-# 🛍️ Pick-and-Pay (https://pickandpay-deployed-mern-e-comm-1.onrender.com/auth/login)
+# 🛍️ Shop Wave (https://pickandpay-deployed-mern-e-comm-1.onrender.com/auth/login)
 
 
 
